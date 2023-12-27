@@ -1,4 +1,10 @@
 # festival_post
+# video
+
+
+https://github.com/pranav2512/festival_post_maker/assets/83396279/fc2a087e-95b3-414a-b83b-4d760cb983aa
+
+
 
 Festival post app
 
